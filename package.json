@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "kanishk singh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
